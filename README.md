@@ -6,17 +6,17 @@
 - 🤩 I'm down into project and collobration.
 - 💻 I'm familiar with following tech stacks,
 
-  > - C Programming Language
+  > - [C Programming Language](https://github.com/iamwatchdogs?tab=repositories&q=&type=&language=c&sort= "view my C Programming repos")
   > 
-  > - C++ Programming Language
+  > - [C++ Programming Language](https://github.com/iamwatchdogs?tab=repositories&q=&type=&language=c%2B%2B&sort= "view my C++ Programming repos")
   > 
-  >- Java Programming Language
+  > - [Java Programming Language](https://github.com/iamwatchdogs?tab=repositories&q=&type=&language=java&sort= "view my Java repos")
   >
   > - Python Programming Language
   > 
-  > - R Programming
+  > - [R Programming](https://github.com/iamwatchdogs?tab=repositories&q=&type=&language=r&sort= "view my R Programming repo")
   > 
-  > - Basic Shell Scripting
+  > - [Basic Shell Scripting](https://github.com/iamwatchdogs?tab=repositories&q=&type=&language=shell&sort= "view my Shell Scripting repo")
 
 ---
 
