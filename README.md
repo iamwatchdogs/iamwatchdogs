@@ -3,7 +3,7 @@
 ## Welcome to My GitHub Profile
 
 - 🏫 I'm currently studying as 3rd year CSE student in [Raghu Engineering College](https://raghuenggcollege.com/ "visit my college website").
-- 🤩 I'm down into project and collobration.
+- 🤩 I'm down into project and collabration.
 - 💻 I'm familiar with following tech stacks,
 
   > - [C Programming Language](https://github.com/iamwatchdogs?tab=repositories&q=&type=&language=c&sort= "view my C Programming repos")
