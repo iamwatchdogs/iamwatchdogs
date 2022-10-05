@@ -18,7 +18,7 @@
   > 
   > - [Basic Shell Scripting](https://github.com/iamwatchdogs?tab=repositories&q=&type=&language=shell&sort= "view my Shell Scripting repo")
 
----
+<!-- ---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamwatchdogs&layout=compact" alt="iamwatchdogs"/>
@@ -27,3 +27,4 @@
 </div>
  
 ---
+ -->
