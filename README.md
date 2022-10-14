@@ -3,28 +3,69 @@
 ## Welcome to My GitHub Profile
 
 - 🏫 I'm currently studying as 3rd year CSE student in [Raghu Engineering College](https://raghuenggcollege.com/ "visit my college website").
-- 🤩 I'm down into project and collabration.
-- 💻 I'm familiar with following tech stacks,
+- 🤩 I'm down into project and collabrations.
 
-  > - [C Programming Language](https://github.com/iamwatchdogs?tab=repositories&q=&type=&language=c&sort= "view my C Programming repos")
-  > 
-  > - [C++ Programming Language](https://github.com/iamwatchdogs?tab=repositories&q=&type=&language=c%2B%2B&sort= "view my C++ Programming repos")
-  > 
-  > - [Java Programming Language](https://github.com/iamwatchdogs?tab=repositories&q=&type=&language=java&sort= "view my Java repos")
-  >
-  > - Python Programming Language
-  > 
-  > - [R Programming](https://github.com/iamwatchdogs?tab=repositories&q=&type=&language=r&sort= "view my R Programming repo")
-  > 
-  > - [Basic Shell Scripting](https://github.com/iamwatchdogs?tab=repositories&q=&type=&language=shell&sort= "view my Shell Scripting repo")
-
-<!-- ---
+### 💻 I'm familiar with following tech stacks:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamwatchdogs&layout=compact" alt="iamwatchdogs"/>
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=iamwatchdogs&show_icons=true" alt="iamwatchdogs" />
+  <a href="https://github.com/iamwatchdogs?tab=repositories&q=&type=&language=c&sort=" target="_blank" title="View my C Programming repo(s)"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  </a>
+  <a href="https://github.com/iamwatchdogs?tab=repositories&q=&type=&language=c%2B%2B&sort=" target="_blank" title="View my C++ Programming repo(s)"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  </a>
+  <a href="https://github.com/iamwatchdogs/" target="_blank" title="View my repos">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/iamwatchdogs?tab=repositories&q=&type=&language=shell&sort=" target="_blank" title="View my Shell Scripting repo(s)">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg" alt="bash" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/iamwatchdogs?tab=repositories&q=&type=&language=java&sort=" target="_blank" title="View my Java repo(s)">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/iamwatchdogs?tab=repositories&q=&type=&language=r&sort=" target="_blank" title="View my R programming repo(s)">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" alt="r-studio" width="40" height="40"/>
+  </a>
+  <a href="" target="_blank" title="View my Python repo(s)">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="" target="_blank" title="View my html5 repo(s)">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/>
 </div>
- 
+
+### 🌐 Connect with me though:
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/shamith-n-02b535226/" target="_blank" title="Visit my Linkedin">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
+  </a>
+    <a href="https://twitter.com/Shamith29188225" target="_blank" title="Visit my twitter">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="twitter" width="40" height="40"/>
+  </a>
+  <a href="https://www.instagram.com/shamith_watch_dogs/" target="_blank" title="Visit my Instagram">
+    <img src="https://raw.githubusercontent.com/wle8300/instagram-logo/master/logo.svg" alt="instagram" width="40" height="40"/>
+  </a>
+    <a href="https://www.facebook.com/shamith.nakka" target="_blank" title="Visit my facebook">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="facebook" width="40" height="40"/>
+  </a>
+</div>
+
+
 ---
- -->
+
+<div align="center">
+
+![iamwatchdogs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamwatchdogs&layout=compact)
+<br />
+![iamwatchdogs](https://github-readme-stats.vercel.app/api?username=iamwatchdogs&show_icons=true)
+<br />
+![iamwatchdog](https://github-readme-streak-stats.herokuapp.com/?user=iamwatchdogs&)
+  
+</div>
+
+---
