@@ -5,7 +5,7 @@
 - 🏫 I'm currently studying as 3rd year CSE student in [Raghu Engineering College](https://raghuenggcollege.com/ "visit my college website").
 - 🤩 I'm down into project and collabrations.
 
-### 💻 I'm familiar with following tech stacks:
+## 💻 I'm familiar with following tech stacks:
 
 <div align="center">
   <a href="https://github.com/iamwatchdogs?tab=repositories&q=&type=&language=c&sort=" target="_blank" title="View my C Programming repo(s)"> 
@@ -38,7 +38,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/>
 </div>
 
-### 🌐 Connect with me though:
+## 🌐 Connect with me though:
 
 <div align="center">
   <a href="https://www.linkedin.com/in/shamith-n-02b535226/" target="_blank" title="Visit my Linkedin">
@@ -55,17 +55,12 @@
   </a>
 </div>
 
+## My GitHub stats:
 
----
+| <img src="https://github-readme-stats.vercel.app/api?username=iamwatchdogs&&show_icons=true&count_private=true&theme=github_dark"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamwatchdogs&theme=blueberry_duo"/> |
+| --- | ---- |
 
-<div align="center">
-
-![iamwatchdogs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamwatchdogs&layout=compact)
-<br />
-![iamwatchdogs](https://github-readme-stats.vercel.app/api?username=iamwatchdogs&show_icons=true)
-<br />
-![iamwatchdog](https://github-readme-streak-stats.herokuapp.com/?user=iamwatchdogs&)
-  
-</div>
+| ![iamwatchdog](https://activity-graph.herokuapp.com/graph?username=iamwatchdogs&theme=react-dark) |
+| --- |
 
 ---
