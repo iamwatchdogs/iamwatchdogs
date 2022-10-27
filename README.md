@@ -114,5 +114,8 @@
 | <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=iamwatchdogs&theme=darkhub&column=7" alt="My GitHub stats"></div> |
 | --- |
 | ![iamwatchdog](https://activity-graph.herokuapp.com/graph?username=iamwatchdogs&theme=react-dark) |
-| <div align ="center"><img src="https://raw.githubusercontent.com/iamwatchdogs/iamwatchdogs/output/github-contribution-grid-snake.svg" alt="snake game on my contribution graph" title="Ohh No, it's eating my contributions from the graph" ></div> |
+
+<div align ="center">
+  <img src="https://raw.githubusercontent.com/iamwatchdogs/iamwatchdogs/output/github-contribution-grid-snake.svg" alt="snake game on my contribution graph" title="Ohh No, it's eating my contributions from the graph" >
+</div> 
 
