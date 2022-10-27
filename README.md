@@ -2,6 +2,7 @@
 
 ## Welcome to My GitHub Profile
 
+- 🎓 I’m currently learning.
 - 🏫 I'm currently studying as 3rd year CSE student in [Raghu Engineering College](https://raghuenggcollege.com/ "visit my college website").
 - 🤩 I'm down into project and collabrations.
 - 📋 I'm currently working on [REC-CSE-LAB](https://github.com/REC-CSE-LAB "visit REC-CSE-LAB Organization") Organization.
@@ -110,7 +111,8 @@
 | <img src="https://github-readme-stats.vercel.app/api?username=iamwatchdogs&&show_icons=true&count_private=true&theme=github_dark"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamwatchdogs&theme=blueberry_duo"/> |
 | --- | ---- |
 
-| ![iamwatchdog](https://activity-graph.herokuapp.com/graph?username=iamwatchdogs&theme=react-dark) |
+| <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=iamwatchdogs&theme=darkhub&column=7" alt="My GitHub stats"></div> |
 | --- |
+| ![iamwatchdog](https://activity-graph.herokuapp.com/graph?username=iamwatchdogs&theme=react-dark) |
 | <div align ="center"><img src="https://raw.githubusercontent.com/iamwatchdogs/iamwatchdogs/output/github-contribution-grid-snake.svg" alt="snake game on my contribution graph" title="Ohh No, it's eating my contributions from the graph" ></div> |
 
