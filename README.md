@@ -8,6 +8,8 @@
 
 ## 💻 I'm familiar with following tech stacks:
 
+<br/>
+
 <div align="center">
   <table>
     <tr>
@@ -74,6 +76,8 @@
 </div>
 
 ## 🌐 Connect with me though:
+
+<br/>
 
 <div align="center">
   <table>
