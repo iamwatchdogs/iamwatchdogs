@@ -115,13 +115,10 @@
 | --- |
 | ![iamwatchdog](https://activity-graph.herokuapp.com/graph?username=iamwatchdogs&theme=react-dark) |
 
-<!-- Will add soon..
-
 ## 🐱‍💻 Hacktober badges:
 
 [ ![@shamith_watchdogs's Holopin board](https://holopin.me/shamith_watchdogs) ](https://holopin.io/@shamith_watchdogs) 
 
--->
 
 <!-- Snake Game -->
 <div align ="center">
