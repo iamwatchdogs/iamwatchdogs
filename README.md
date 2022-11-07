@@ -94,7 +94,7 @@
           </a>
       </td>
       <td>
-         <a href="https://discord.gg/xrSCjwhR6R">
+         <a href="https://discord.gg/xrSCjwhR6R" target="_blank" title="Join My Discord Channel">
           <img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" alt="discord" width="40" height="40" />
          </a>
       </td>
