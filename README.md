@@ -94,6 +94,11 @@
           </a>
       </td>
       <td>
+         <a href="https://discord.gg/xrSCjwhR6R">
+          <img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" alt="discord" width="40" height="40" />
+         </a>
+      </td>
+      <td>
           <a href="https://www.instagram.com/shamith_watch_dogs/" target="_blank" title="Visit my Instagram">
             <img src="https://raw.githubusercontent.com/wle8300/instagram-logo/master/logo.svg" alt="instagram" width="40" height="40"/>
           </a>
