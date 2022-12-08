@@ -118,7 +118,7 @@
 
 | <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=iamwatchdogs&theme=darkhub&column=6" alt="My GitHub stats"> </div> |
 | --- |
-| ![iamwatchdog](https://activity-graph.herokuapp.com/graph?username=iamwatchdogs&theme=react-dark) |
+| ![iamwatchdogs](https://github-readme-activity-graph.cyclic.app/graph?username=iamwatchdogs&theme=react-dark) |
 
 ## 🐱‍💻 Hacktober badges:
 
