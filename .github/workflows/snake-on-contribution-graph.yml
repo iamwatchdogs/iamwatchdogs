@@ -25,12 +25,12 @@ jobs:
            ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
             
-      - name: ensure the generated file exists
-        run: |
-          ls dist
-          test -f dist/github-contribution-grid-snake.svg
-          test -f dist/github-contribution-grid-snake-dark.svg
-          test -f dist/github-contribution-grid-snake.gif
+#      - name: ensure the generated file exists
+#        run: |
+#          ls dist
+#          test -f dist/github-contribution-grid-snake.svg
+#          test -f dist/github-contribution-grid-snake-dark.svg
+#          test -f dist/github-contribution-grid-snake.gif
 
       - name: Using GitHub Pages to deploy
         uses: crazy-max/ghaction-github-pages@v3.1.0
