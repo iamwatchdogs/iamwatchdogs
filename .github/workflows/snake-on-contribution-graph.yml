@@ -16,27 +16,24 @@ jobs:
     steps:
     
       - uses: actions/checkout@v2
-      
+             
       - name: generate snake game
         id: generate-snake
         uses: Platane/snk@v2
         with:
           github_user_name: iamwatchdogs
           outputs: |
-           dark.svg?palette=github-dark&color_snake=blue
-           light.svg?color_snake=#7845ab
-           ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
             
-#      - name: ensure the generated file exists
-#        run: |
-#          ls dist
-#          test -f dist/github-contribution-grid-snake.svg
-#          test -f dist/github-contribution-grid-snake-dark.svg
-#          test -f dist/github-contribution-grid-snake.gif
-
-      - name: Using GitHub Pages to deploy
-        uses: crazy-max/ghaction-github-pages@v2.5.0
+      - name: ensure the generated file exists
+        run: |
+          ls dist
+          test -f dist/github-contribution-grid-snake.svg
+          test -f dist/github-contribution-grid-snake-dark.svg
+          test -f dist/github-contribution-grid-snake.gif
+      - uses: crazy-max/ghaction-github-pages@v2.5.0
         with:
           target_branch: output
           build_dir: dist
