@@ -116,7 +116,7 @@
 | <img src="https://github-readme-stats.vercel.app/api?username=iamwatchdogs&&show_icons=true&count_private=true&theme=github_dark"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamwatchdogs&theme=blueberry_duo"/> |
 | --- | ---- |
 
-| <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=iamwatchdogs&theme=darkhub&column=6" alt="My GitHub stats"> </div> |
+| <img src="https://github-profile-trophy.vercel.app/?username=iamwatchdogs&theme=darkhub&column=7" alt="My GitHub stats"> |
 | --- |
 | ![iamwatchdogs](https://github-readme-activity-graph.cyclic.app/graph?username=iamwatchdogs&theme=react-dark) |
 
