@@ -127,6 +127,6 @@
 
 <!-- Snake Game -->
 <div align ="center">
-  <img src="https://raw.githubusercontent.com/iamwatchdogs/iamwatchdogs/output/github-contribution-grid-snake.svg" alt="snake game on my contribution graph" title="Ohh No, it's eating my contributions from the graph" >
+  <img src="https://raw.githubusercontent.com/iamwatchdogs/iamwatchdogs/output/github-contribution-grid-snake-dark.svg" alt="snake game on my contribution graph" title="Ohh No, it's eating my contributions from the graph" >
 </div>
 
