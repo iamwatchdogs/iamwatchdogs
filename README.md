@@ -3,11 +3,11 @@
 ## Welcome to My GitHub Profile
 
 - 🎓 I’m currently learning front-end development.
-- 🏫 I'm currently studying as 3rd year CSE student in [Raghu Engineering College](https://raghuenggcollege.com/ "visit my college website").
-- 🤩 I'm down into project and collabrations.
+- 🏫 I'm currently studying as 4th year CSE student at [Raghu Engineering College](https://raghuenggcollege.com/ "visit my college website").
+- 🤩 I'm down into projects and collaborations.
 - 📋 Currently maintainer of [REC-CSE-LAB](https://github.com/REC-CSE-LAB "visit REC-CSE-LAB Organization") Organization.
 
-## 💻 I'm familiar with following tech stacks:
+## 💻 I'm familiar with the following tech stacks:
 
 <br/>
 
