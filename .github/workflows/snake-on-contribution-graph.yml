@@ -19,7 +19,7 @@ jobs:
         uses: actions/checkout@v2
              
       - name: generating snake
-        uses: Sutil/snk@master
+        uses: Sutil/snk@v01.00.02
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -29,9 +29,11 @@ jobs:
       - name: ensure the generated file exists
         run: |
           ls dist
-          test -f dist/github-contribution-grid-snake.svg
-          test -f dist/github-contribution-grid-snake-dark.svg
-          test -f dist/github-contribution-grid-snake.gif
+          test -f dist/github-contribution-grid-snake-blue.svg
+          # not checking the following as I'm using "Sutil/snk@master" instead of "Platane/snk@v2.2.1"
+          # test -f dist/github-contribution-grid-snake.svg
+          # test -f dist/github-contribution-grid-snake-dark.svg
+          # test -f dist/github-contribution-grid-snake.gif
           
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
