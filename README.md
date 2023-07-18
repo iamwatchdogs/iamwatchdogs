@@ -2,7 +2,7 @@
 
 ## Welcome to My GitHub Profile
 
-- 🎓 I’m currently learning front-end development.
+- 🎓 I’m currently working on the osdag project.
 - 🏫 I'm currently studying as 4th year CSE student at [Raghu Engineering College](https://raghuenggcollege.com/ "visit my college website").
 - 🤩 I'm down into projects and collaborations.
 - 📋 Currently maintainer of [REC-CSE-LAB](https://github.com/REC-CSE-LAB "visit REC-CSE-LAB Organization") Organization.
@@ -127,6 +127,6 @@
 
 <!-- Snake Game -->
 <div align ="center">
-  <img src="https://raw.githubusercontent.com/iamwatchdogs/iamwatchdogs/output/github-contribution-grid-snake-dark.svg" alt="snake game on my contribution graph" title="Ohh No, it's eating my contributions from the graph" >
+  <img src="https://raw.githubusercontent.com/iamwatchdogs/iamwatchdogs/output/github-contribution-grid-snake-dark.svg" alt="ERROR:404 XoX" title="Ohh No, it's eating my contributions from the graph" >
 </div>
 
