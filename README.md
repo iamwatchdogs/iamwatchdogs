@@ -5,7 +5,7 @@
 - 🎓 I’m currently working on the osdag project.
 - 🏫 I'm currently studying as 4th year CSE student at [Raghu Engineering College](https://raghuenggcollege.com/ "visit my college website").
 - 🤩 I'm down into projects and collaborations.
-- 📋 Currently maintainer of [REC-CSE-LAB](https://github.com/REC-CSE-LAB "visit REC-CSE-LAB Organization") Organization.
+- 📋 Currently main maintainer of [Grow-with-Open-Source](https://github.com/REC-CSE-LAB "visit Grow-with-Open-Source Organization") Organization.
 
 ## 💻 I'm familiar with the following tech stacks:
 
