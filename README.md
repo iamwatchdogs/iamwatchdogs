@@ -1,4 +1,5 @@
-# Hi there <img src="Assets/Hi.gif" width="29">, I'm Shamith <img src="https://visitor-badge.laobi.icu/badge?page_id=iamwatchdogs.iamwatchdogs" alt="" align="right" />
+# Hi there <img src="Assets/Hi.gif" width="29">, I'm Shamith <img src="https://komarev.com/ghpvc/?username=iamwatchdogs&color=brightgreen" alt="" align="right" />
+
 
 ## Welcome to My GitHub Profile
 
