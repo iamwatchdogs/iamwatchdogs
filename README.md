@@ -1,125 +1,18 @@
 # Hi there <img src="Assets/Hi.gif" width="29">, I'm Shamith <img src="https://komarev.com/ghpvc/?username=iamwatchdogs&color=brightgreen" alt="" align="right" />
 
+## 🏆 GitHub Certs:
 
-## Welcome to My GitHub Profile
-
-- 🎓 I’m currently working on the repos for [Grow-with-Open-Source](https://github.com/Grow-with-Open-Source "visit Grow-with-Open-Source Organization") Organization.
-- 🏫 I'm currently studying as 4th year CSE student at [Raghu Engineering College](https://raghuenggcollege.com/ "visit my college website").
-- 🤩 I'm down into projects and collaborations.
-- 📋 Currently main maintainer of [Grow-with-Open-Source](https://github.com/Grow-with-Open-Source "visit Grow-with-Open-Source Organization") Organization.
-
-## 💻 I'm familiar with the following tech stacks:
-
-<br/>
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/iamwatchdogs?tab=repositories&q=&type=&language=c&sort=" target="_blank" title="View my C Programming repo(s)"> 
-          <img src="Assets/c-original.svg" alt="c" width="40" height="40"/> 
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/iamwatchdogs?tab=repositories&q=&type=&language=c%2B%2B&sort=" target="_blank" title="View my C++ Programming repo(s)"> 
-          <img src="Assets/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/iamwatchdogs/" target="_blank" title="View my repos">
-          <img src="Assets/git-scm-icon.svg" alt="git" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/iamwatchdogs/" target="_blank" title="View my repos">
-          <img src="Assets/github-original.svg" alt="github" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/iamwatchdogs/" target="_blank" title="View my repos">
-          <img src="Assets/markdown-original.svg" alt="markdown" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/iamwatchdogs?tab=repositories&q=&type=&language=shell&sort=" target="_blank" title="View my Shell Scripting repo(s)">
-          <img src="Assets/bash-plain.svg" alt="bash" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/iamwatchdogs?tab=repositories&q=&type=&language=java&sort=" target="_blank" title="View my Java repo(s)">
-          <img src="Assets/java-original.svg" alt="java" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/iamwatchdogs?tab=repositories&q=&type=&language=r&sort=" target="_blank" title="View my R programming repo(s)">
-          <img src="Assets/r-original.svg" alt="r" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/iamwatchdogs?tab=repositories&q=&type=&language=r&sort=" target="_blank" title="View my R programming repo(s)">
-          <img src="Assets/rstudio-original.svg" alt="r-studio" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="" target="_blank" title="View my Python repo(s)">
-          <img src="Assets/python-original.svg" alt="python" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="" target="_blank" title="View my html5 repo(s)">
-          <img src="Assets/html5-original.svg" alt="html5" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <img src="Assets/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 🌐 Connect with me though:
-
-<br/>
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-          <a href="https://www.linkedin.com/in/shamith-n-02b535226/" target="_blank" title="Visit my Linkedin">
-            <img src="Assets/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
-          </a>
-      </td>
-      <td>
-          <a href="https://twitter.com/Shamith29188225" target="_blank" title="Visit my twitter">
-            <img src="Assets/twitter-original.svg" alt="twitter" width="40" height="40"/>
-          </a>
-      </td>
-      <td>
-         <a href="https://discord.gg/xrSCjwhR6R" target="_blank" title="Join My Discord Channel">
-          <img src="Assets/discordapp-tile.svg" alt="discord" width="40" height="40" />
-         </a>
-      </td>
-      <td>
-          <a href="https://www.instagram.com/shamith_watch_dogs/" target="_blank" title="Visit my Instagram">
-            <img src="Assets/logo.svg" alt="instagram" width="40" height="40"/>
-          </a>
-      </td>
-      <td>
-          <a href="https://www.facebook.com/shamith.nakka" target="_blank" title="Visit my facebook">
-            <img src="Assets/facebook-original.svg" alt="facebook" width="40" height="40"/>
-          </a>
-      </td>
-  </table>
-</div>
+| [<img width="164" height="165" alt="image" src="https://github.com/user-attachments/assets/c469ba62-5ed3-4453-8300-0b39b7ccce9f" />](https://learn.microsoft.com/api/credentials/share/en-us/ShamithNakka/ABF6A6D5F5ECEA18?sharingId=3763B5A285062B8B) | [<img width="164" height="165" alt="image" src="https://github.com/user-attachments/assets/29e20810-ce31-47c1-935a-b259de18b155" />](https://learn.microsoft.com/api/credentials/share/en-us/ShamithNakka/B01B4547478DD603?sharingId=3763B5A285062B8B) | [<img width="164" height="165" alt="image" src="https://github.com/user-attachments/assets/62c1fe8a-f5bf-4b9f-af09-a25f6979cfe6" />](https://learn.microsoft.com/api/credentials/share/en-us/ShamithNakka/84CBA9646F5A2DA7?sharingId=3763B5A285062B8B) | [<img width="164" height="165" alt="image" src="https://github.com/user-attachments/assets/6ade2995-04f6-44f4-935a-ff6c4cdb2bac" />](https://learn.microsoft.com/api/credentials/share/en-us/ShamithNakka/D2B3267E2BA0AADA?sharingId=3763B5A285062B8B) |
+| :---: | :---: | :---: | :---: |
 
 ## 📈 My GitHub stats:
 
-| <img src="https://github-readme-stats.vercel.app/api?username=iamwatchdogs&&show_icons=true&count_private=true&theme=github_dark"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamwatchdogs&theme=blueberry_duo"/> |
+| <img title="github-read-me-stats" alt="github-read-me-stats" src="https://github-readme-stats-sooty-nu-61.vercel.app/api?username=iamwatchdogs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&all_time_contribs=true%22"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamwatchdogs&theme=blueberry_duo"/> |
 | --- | ---- |
 
 | <img src="https://github-profile-trophy.vercel.app/?username=iamwatchdogs&theme=darkhub&column=9" alt="My GitHub stats"> |
 | --- |
-| ![iamwatchdogs](https://github-readme-activity-graph.vercel.app/graph?username=iamwatchdogs&theme=react-dark) |
+| ![iamwatchdogs](https://github-readme-activity-graph.vercel.app/graph?username=iamwatchdogs&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true) |
 
 ## 🐱‍💻 Hacktober badges:
 
